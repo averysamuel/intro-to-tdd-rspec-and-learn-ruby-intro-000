@@ -1,3 +1,4 @@
 def 
-  _current_age_for_birth_year
+  _current_age_for_birth_year(birth_year)
+  2003-birth_year
 end
